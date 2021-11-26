@@ -1,0 +1,32 @@
+h3{
+    text-decoration: underline;
+    text-align: center;
+    color: magenta;
+    font-family:'Outfit', sans-serif;
+    font-size: 40px;
+}
+p{
+    text-align: center;
+    color: yellow;
+    font-family:'Outfit', sans-serif;
+    font-size: 25px;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/60/1e/33/601e335b36da2796025e265b1d3063b7.jpg);
+    
+}
+a{
+    color: rgb(255, 0, 0);
+}
+ul{
+    text-decoration: underline;
+    text-align: center;
+    list-style-position: inherit;
+    color: aqua;
+    font-family:'Outfit', sans-serif;
+    font-size: 25px;
+    display: inline-block;
+}
+div.parent{
+    text-align: center;
+}
